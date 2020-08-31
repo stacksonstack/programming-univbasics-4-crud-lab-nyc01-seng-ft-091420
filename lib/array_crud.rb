@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  array = ["item1", "item2", "item3", "item4"]
 end
 
 def create_an_array
